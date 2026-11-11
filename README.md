@@ -61,6 +61,7 @@ You have two options on how to configure your desired keymap:
 
 ### Problems
 
+
 #### I'm getting File Transfer Error after copying firmware to the keyboard
 
 It's OK. Proof: https://zmk.dev/docs/troubleshooting#file-transfer-error
